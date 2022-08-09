@@ -1,1 +1,1 @@
-# first-day-project
+# first-day-demo
